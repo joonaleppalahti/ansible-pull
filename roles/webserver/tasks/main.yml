@@ -18,7 +18,7 @@
 
 - name: add user opiskelija
   user:
-    name: opiskelija
+    name: opiskelija2
     password: $1$suola$x3q8bwB9K87WryJYwGJ2j.
     shell: /bin/bash
 
